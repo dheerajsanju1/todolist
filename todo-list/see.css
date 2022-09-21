@@ -1,0 +1,83 @@
+body
+{
+    margin: 0;
+    background-color:paleturquoise;
+}
+.main
+{
+    width: 100%;
+    height: 130px;
+    padding: 3px;
+    color: midnightblue;
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 4px solid brown;
+    border-top: 4px solid brown;   
+}
+.main2
+{
+    width: 1200px;
+    height: 500px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+.main2 h3
+{
+    font-size: 35px;
+    color: midnightblue;
+} 
+.main2 h4
+{
+    font-size: 20px;
+   color:midnightblue ; 
+}
+.btn
+{
+    padding: 20px;
+    float: right;
+    font-size: 20px;
+    background-color: green;    
+}
+.btn a
+{
+    color: white;
+}
+.tab
+{
+    font-size: 50px;
+    padding: 20px;
+    height: 200px;
+    padding: 20px;
+    margin-left: 20px;
+}
+.tab table
+{
+    border-collapse: collapse;
+    border-radius: 20px solid; 
+    font-size: 30px;
+    color: midnightblue;
+}
+.under
+{
+    border-bottom: 3px solid;
+}
+.under th
+{
+    border-bottom: 3px solid;
+    padding: 11px;
+}
+.under1
+{
+    border-bottom: 3px solid;
+}
+.under1 td
+{
+    border-bottom: 3px solid;
+    text-align: center;
+    padding: 8px;
+}
+.sel
+{
+    float: right;
+}

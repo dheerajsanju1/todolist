@@ -1,0 +1,101 @@
+body
+{
+    margin: 0;
+    background-color: rgb(161, 235, 235);
+}
+.main
+{
+    width: 100%;
+    color: darkgreen;
+    height: 100px;
+    background-color: rgb(161, 235, 235);
+    border-top: 3px solid;
+    border-bottom:3px solid ;
+    text-align: center;
+    font-size: 30px    
+}
+.main h1
+{
+    color: brown;
+}
+.main2
+{
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    padding: 8px;
+    text-align: left;
+}
+.main2 h3
+{
+    font-size: 30px;
+    border-bottom: 2px dotted;
+}
+.for
+{
+    text-align: center;
+  
+}
+.for input
+{
+    font-size: 20PX;
+    border-radius: 20% solid;
+}
+.color
+{
+    background-color: green;
+    color: white;
+    border: none;
+    
+}
+.butn
+{
+    padding: 10px;
+    font-size: 20px;
+    float: right;
+    background-color:green;
+    /* border: none; */
+    border: 2px dotted;  
+}
+.butn a
+{
+    color: black;
+}
+.tab
+{
+    font-size: 20px;
+    padding: 20px;
+    height: 200px;
+    padding: 20px;
+    margin-left: 20px;
+}
+.tab table
+{
+    border-collapse: collapse;
+    border-radius: 20px solid;
+    font-size: 20px;
+    color: midnightblue;
+}
+.under
+{
+    border-bottom: 3px solid; 
+}
+.under th
+{
+    border-bottom: 3px solid;
+    padding: 11px;
+}
+.under1
+{
+    border-bottom: 3px solid;
+}
+.under1 td
+{
+    border-bottom: 3px solid;
+    text-align: center;
+    padding: 8px;
+}
+.sel
+{
+    float: right;
+}
